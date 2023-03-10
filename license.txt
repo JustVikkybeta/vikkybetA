@@ -1,0 +1,11 @@
+Model Information:
+* title:	Шлем
+* source:	https://sketchfab.com/3d-models/64b271ff2a59466f925c65eedb11033a
+* author:	justvikky (https://sketchfab.com/justvikky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Шлем" (https://sketchfab.com/3d-models/64b271ff2a59466f925c65eedb11033a) by justvikky (https://sketchfab.com/justvikky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
